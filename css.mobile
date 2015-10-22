@@ -1,0 +1,45 @@
+/*---------------Iphone-------------------*/
+@media (max-width:320px) {
+header {
+    background: url(image/fondheader.gif) no-repeat;
+    background-color: #979797;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    bottom: auto;
+    z-index: 6;
+}
+}
+
+
+
+
+/*---------------Grand Iphones---------------*/
+@media (min-width:321px) and (max-width:414px) {
+header {
+    background: url(image/fondheader.gif) no-repeat;
+    background-color: #979797;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    bottom: auto;
+    z-index: 6;
+  }
+}
+
+
+/*---------------Ipad---------------*/
+@media (min-width:415px) and (max-width:959px) {  /*Ipad*/
+  header {
+    background: url(image/fondheader.gif) no-repeat;
+    background-color: #979797;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    bottom: auto;
+    z-index: 6;
+  }
+}
