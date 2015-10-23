@@ -77,13 +77,14 @@ margin-bottom: 40px
 /*----------------------- CAROUSEL -----------------------*/
 .carousel-texte {
 text-align: center;
-margin-top: 20px;
-margin-bottom: 20px;
+margin-top: 0%;
+margin-bottom: 0%;
 }
 
 #taille-carousel {
-margin-left: 0%;
-margin-right: 0%;
+margin-left: 20%;
+margin-right: 20%;
+width: 7%;
 }
 
 
