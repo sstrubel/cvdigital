@@ -77,8 +77,8 @@ margin-bottom: 40px
 /*----------------------- CAROUSEL -----------------------*/
 .carousel-texte {
 text-align: center;
-margin-top: 20px;
-margin-bottom: 20px;
+margin-top: 0%;
+margin-bottom: 0%;
 }
 
 #taille-carousel {
@@ -90,8 +90,31 @@ width: 7%;
 
 /*----------------------- CONTACT -----------------------*/
 
+<<<<<<< HEAD
 .contact {
     margin-bottom: 2%;
+=======
+}
+
+.fichecontact {
+    margin-top: 2%;
+}
+
+.sacha {
+    text-align: center;
+    font-family: Lobster, Cursive;
+    color: #000000;
+    margin: 0;
+}
+
+.logolk {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.minicv {
+    margin-left: 10%;
+>>>>>>> master
 }
 
 /*----------------------- TIMELINE -----------------------*/
