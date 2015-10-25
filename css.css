@@ -89,30 +89,9 @@ width: 7%;
 
 
 /*----------------------- CONTACT -----------------------*/
-#contact {
-    display: block;
-    margin: auto;
 
-}
-
-.fichecontact {
-    margin-top: 30%;
-}
-
-.sacha {
-    text-align: center;
-    font-family: Lobster, Cursive;
-    color: #000000;
-    margin: 0;
-}
-
-.logolk {
-    margin-left: 50%;
-    margin-right: 50%;
-}
-
-.minicv {
-    margin-left: 10%;
+.contact {
+    margin-bottom: 2%;
 }
 
 /*----------------------- TIMELINE -----------------------*/
