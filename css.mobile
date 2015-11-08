@@ -1,0 +1,76 @@
+/*---------------Iphone-------------------*/
+@media (max-width:320px) {
+header {
+    background: url(image/fondheader.gif) no-repeat;
+    background-color: #979797;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    bottom: auto;
+    z-index: 6;
+}
+}
+
+@media (max-width:320px) {
+.carousel-texte {
+text-align: center;
+margin-top: 20%;
+margin-bottom: 20%;
+font-size: 12px;
+}
+
+#taille-carousel {
+margin-left: 0%;
+margin-right: 0%;
+}
+
+}
+/*----------------------- CAROUSEL -----------------------*/
+
+@media (max-width:320px) {
+.carousel-texte {
+text-align: center;
+margin-top: 20%;
+margin-bottom: 20%;
+font-size: 12px;
+}
+
+#taille-carousel {
+margin-left: 20%;
+margin-right: 20%;
+width: 100%;
+}
+
+}
+
+
+
+/*---------------Grand Iphones---------------*/
+@media (min-width:321px) and (max-width:414px) {
+header {
+    background: url(image/fondheader.gif) no-repeat;
+    background-color: #979797;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    bottom: auto;
+    z-index: 6;
+  }
+}
+
+
+/*---------------Ipad---------------*/
+@media (min-width:415px) and (max-width:959px) {  /*Ipad*/
+  header {
+    background: url(image/fondheader.gif) no-repeat;
+    background-color: #979797;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    bottom: auto;
+    z-index: 6;
+  }
+}
