@@ -22,3 +22,16 @@ $(document).ready(function() {
 	$('body').scrollspy({ target: '#bs-example-navbar-collapse-1', offset: 200 });
 
 });
+
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'top'
+    });
+});
+	$('[data-toggle="popover"]').popover({
+	    placement : 'top'
+	});
+	
+});
+
+

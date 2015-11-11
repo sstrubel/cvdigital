@@ -77,8 +77,8 @@ margin-bottom: 40px
 /*----------------------- CAROUSEL -----------------------*/
 .carousel-texte {
 text-align: center;
-margin-top: 20px;
-margin-bottom: 20px;
+margin-top: 0%;
+margin-bottom: 0%;
 }
 
 #taille-carousel {
@@ -89,14 +89,14 @@ width: 7%;
 
 
 /*----------------------- CONTACT -----------------------*/
-#contact {
-    display: block;
-    margin: auto;
 
+
+.contact {
+    margin-bottom: 2%;
 }
 
 .fichecontact {
-    margin-top: 30%;
+    margin-top: 2%;
 }
 
 .sacha {
