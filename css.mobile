@@ -10,6 +10,11 @@ header {
     bottom: auto;
     z-index: 6;
     }
+
+#pourquoi-moi {
+    margin-top: 45%;
+}
+
 }
 
 
@@ -25,6 +30,11 @@ header {
     bottom: auto;
     z-index: 6;
     }
+
+#pourquoi-moi {
+    margin-top: 40%;
+}
+
 }
 
 
@@ -40,5 +50,10 @@ header {
     bottom: auto;
     z-index: 6;
     }
+
+#pourquoi-moi {
+    margin-top: 30%;
+}
+
 }
 
