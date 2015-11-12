@@ -10,6 +10,9 @@ header {
     bottom: auto;
     z-index: 6;
     }
+}
+
+@media (max-width:320px) {
 
     #pourquoi-moi{
     margin-top: 45%;
@@ -31,6 +34,9 @@ header {
     bottom: auto;
     z-index: 6;
     }
+}
+
+@media (min-width:321px) and (max-width:414px) {
 
    #pourquoi-moi{
     margin-top: 45%;
@@ -39,7 +45,7 @@ header {
 
 
 /*---------------Ipad---------------*/
-@media (min-width:415px) and (max-width:959px) {  /*Ipad*/
+@media (min-width:415px) and (max-width:959px) { 
   header {
     background: url(image/fondheader.gif) no-repeat;
     background-color: #979797;
@@ -50,7 +56,10 @@ header {
     bottom: auto;
     z-index: 6;
     }
+}
 
+@media (min-width:415px) and (max-width:959px) { 
+    
    #pourquoi-moi{
     margin-top: 35%;
     }
