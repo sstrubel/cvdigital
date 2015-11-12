@@ -29,7 +29,7 @@ header {
 
 
 .navbar.navbar-inverse { 
-bottom: 0%;
+bottom: auto;
 }
 
 .navbar-default {
@@ -59,7 +59,7 @@ bottom: 0%;
 
 /*-----------------------POURQUOI MOI ?-----------------------*/
 #pourquoi-moi {
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 /*-----------------------LANGUES ET TECHNO ----------------------*/

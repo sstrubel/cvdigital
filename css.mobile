@@ -12,15 +12,6 @@ header {
     }
 }
 
-@media (max-width:320px) {
-
-    #pourquoi-moi{
-    margin-top: 45%;
-    }
-}
-
-
-
 
 /*---------------Grand Iphones---------------*/
 @media (min-width:321px) and (max-width:414px) {
@@ -33,13 +24,6 @@ header {
     top: 0;
     bottom: auto;
     z-index: 6;
-    }
-}
-
-@media (min-width:321px) and (max-width:414px) {
-
-   #pourquoi-moi{
-    margin-top: 45%;
     }
 }
 
@@ -58,9 +42,3 @@ header {
     }
 }
 
-@media (min-width:415px) and (max-width:959px) { 
-    
-   #pourquoi-moi{
-    margin-top: 35%;
-    }
-}
