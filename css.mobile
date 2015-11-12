@@ -10,13 +10,7 @@ header {
     bottom: auto;
     z-index: 6;
     }
-
-    #pourquoi-moi{
-    margin-top: 45%;
-    }
 }
-
-
 
 
 /*---------------Grand Iphones---------------*/
@@ -31,15 +25,11 @@ header {
     bottom: auto;
     z-index: 6;
     }
-
-   #pourquoi-moi{
-    margin-top: 45%;
-    }
 }
 
 
 /*---------------Ipad---------------*/
-@media (min-width:415px) and (max-width:959px) {  /*Ipad*/
+@media (min-width:415px) and (max-width:959px) { 
   header {
     background: url(image/fondheader.gif) no-repeat;
     background-color: #979797;
@@ -50,8 +40,5 @@ header {
     bottom: auto;
     z-index: 6;
     }
-
-   #pourquoi-moi{
-    margin-top: 35%;
-    }
 }
+
